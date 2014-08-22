@@ -8,10 +8,10 @@ from twython import Twython
 mr = MapReduce.MapReduce()
 
 def preprocess():
-    api_key = "rkmLMnVjGYI2H5A2lSqVXpeuP"
-    api_secret = "BtoAXb56cxGVU94sjcJPcCQo28jgHwyOFTaXWTaYrtFw6kvsF4"
-    access_token_key = "96202775-EZh4A4nQ1rIRrMOvFk8tuAh5rrz2VGAgy4In4CJOA"
-    access_token_secret = "FggLLfhmyestPZwzHWgGxW5bbdtz850FilOZqrppEVyLQ"
+    api_key = "r****************P"
+    api_secret = "B****************4"
+    access_token_key = "9****************A"
+    access_token_secret = "F****************Q"
     dictweets = []
     twitter = Twython(app_key=api_key, app_secret=api_secret, \
     oauth_token=access_token_key, oauth_token_secret=access_token_secret)
